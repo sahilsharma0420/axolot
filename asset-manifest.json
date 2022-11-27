@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axolot/static/css/main.78cb8ee5.css",
+    "main.js": "/axolot/static/js/main.abcf4f22.js",
+    "index.html": "/axolot/index.html",
+    "main.78cb8ee5.css.map": "/axolot/static/css/main.78cb8ee5.css.map",
+    "main.abcf4f22.js.map": "/axolot/static/js/main.abcf4f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78cb8ee5.css",
+    "static/js/main.abcf4f22.js"
+  ]
+}
